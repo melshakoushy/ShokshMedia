@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>77991818768-scp8b2eia7319gug0gl0eg8cioq51uco.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.77991818768-scp8b2eia7319gug0gl0eg8cioq51uco</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCqS4A0Jsm8g9nVmZqnC4r8v6usSRVb_64</string>
+	<key>GCM_SENDER_ID</key>
+	<string>77991818768</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>shakoushy.ShokshMedia</string>
+	<key>PROJECT_ID</key>
+	<string>shokshmedia</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shokshmedia.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:77991818768:ios:b0b3f4c06e3bebd6</string>
+	<key>DATABASE_URL</key>
+	<string>https://shokshmedia.firebaseio.com</string>
+</dict>
+</plist>
